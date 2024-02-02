@@ -1,0 +1,34 @@
+import keyword
+print (keyword.kwlist)
+to check a keyword use:
+print (keyword.iskeyword('eg'))
+it'll show you the answer.
+
+
+
+
+for spliting:
+print(s.split())
+
+
+
+
+for center:
+print(s.center(#width=10,'*')
+#left direction would be havin lesser number if the distribution is odd.
+
+
+for count:
+#will return the occurence of an example.
+print(s.count("example"))
+
+
+
+for replace:
+#when you want to replace a substring with another.
+print(s.replace('eg','ef'))
+
+
+for join:
+#will join every iterable.
+print(n.join(s1))

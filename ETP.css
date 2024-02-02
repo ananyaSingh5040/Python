@@ -1,0 +1,15 @@
+.p1 {
+    margin-left: 50px;
+    margin-right: 50px;
+    background-color: yellow;
+    color: orange;
+    font-size: 14pt;
+}
+
+.p2 {
+    margin-left: 20px;
+    margin-right: 20px;
+    color: #FFFF00;
+    font-family: Verdana;
+    font-size: 18pt;
+}

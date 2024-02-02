@@ -1,0 +1,7 @@
+Function definition:
+def func name(parameters):
+               body of the function
+return expression
+TO CALL A FUNC-
+func name(parameters)
+func calling(arguments)
